@@ -19,9 +19,11 @@ Despite its name, it is **not** a regression algorithm for continuous targets; r
 - Classification, however, demands outputs bounded in \([0, 1]\) so they can be interpreted as probabilities.  
 - Logistic regression achieves this by passing a linear combination of features through the sigmoid function:
 
-  <p align="center">
+<p align="center">
   <strong>
-    &hat;p = &sigma;(z) = 1 / (1 + e<sup>&minus;z</sup>), &nbsp;&nbsp; where z = &beta;<sub>0</sub> + &beta;<sub>1</sub>x<sub>1</sub> + &hellip; + &beta;<sub>k</sub>x<sub>k</sub>
+    &nbsp;&nbsp;
+    <em>p̂</em> = σ(z) = 1 / (1 + e<sup>−z</sup>),&nbsp;&nbsp;
+    where z = β₀ + β₁x₁ + ⋯ + β<sub>k</sub>x<sub>k</sub>.
   </strong>
 </p>
 
