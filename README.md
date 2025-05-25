@@ -46,7 +46,7 @@ By mastering logistic regression, you build a solid springboard to more advanced
 
 ---
 
-📝 Medium Article *(X-minute read)*: 
+📝 Medium Article *(17-minute read)*: https://medium.com/@maxwienandts/logistic-regression-theory-and-practice-feb32bc2b06f
 
 ---
 
