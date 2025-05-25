@@ -46,9 +46,7 @@ By mastering logistic regression, you build a solid springboard to more advanced
 
 ---
 
-## 📝 Medium Article
-
-📖 [Read the full article on Medium](https://medium.com/@maxwienandts) *(X-minute read)*
+## 📝 Medium Article *(X-minute read)*: 
 
 ---
 
@@ -56,10 +54,10 @@ By mastering logistic regression, you build a solid springboard to more advanced
 
 **Max Wienandts**
 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/max-wienandts/)
-- 📖 [Medium](https://medium.com/@maxwienandts)
-- 💻 [GitHub](https://github.com/MaxWienandts)
-- ☕ [Buy me a coffee](https://www.paypal.com/donate/?hosted_button_id=2F444HZGJBNX6)
+- 🔗 LinkedIn: https://www.linkedin.com/in/max-wienandts/
+- 📖 Medium: https://medium.com/@maxwienandts
+- 💻 GitHub: https://github.com/MaxWienandts
+- ☕ Buy me a coffee: https://www.paypal.com/donate/?hosted_button_id=2F444HZGJBNX6
 
 ---
 
