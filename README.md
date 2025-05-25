@@ -46,7 +46,7 @@ By mastering logistic regression, you build a solid springboard to more advanced
 
 ---
 
-## 📝 Medium Article *(X-minute read)*: 
+📝 Medium Article *(X-minute read)*: 
 
 ---
 
